@@ -1,0 +1,34 @@
+{
+    "manifest_version": 3,
+    "name": "Youtube Hider",
+    "version": "2.0.0",
+    "content_scripts": [
+        {
+            "matches": ["https://www.youtube.com/*"],
+            "js"     : [
+                "content.js",
+                "scripts/HideHomeFeed/hideHomeFeed.js",
+                "scripts/HideShorts/hideShorts.js",
+                "scripts/HideComments/hideComments.js",
+                "scripts/HideShorts/hideSidebarShortsButtons.js",
+                "scripts/HideShorts/hideShortsFeed.js",
+                "scripts/HideShorts/hideShortsOnHomeFeed.js",
+                "scripts/HideShorts/hideShortsOnSearchPage.js",
+                "scripts/HideShorts/hideShortsOnSearchPageHorizontal.js",
+                "scripts/HideShorts/hideShortsOnRecommendedVideos.js",
+                "scripts/HideShorts/hideShortsOnChannel.js",
+                "scripts/HideVideoSideBar/hideLiveChat.js",
+                "scripts/HideVideoSideBar/hidePlaylist.js",
+                "scripts/HideRecommendedVideos/hideRecommendedVideos.js",
+                "scripts/HideRecommendedVideos/hideRecommendedVideosOnVideo.js",
+                "scripts/HideRecommendedVideos/hideRecommendedVideosOnSidebar.js"
+            ],
+            "run_at" : "document_idle",
+            "type"   : "module"
+        }
+    ],
+    "permissions": ["activeTab", "scripting", "storage", "tabs"],
+    "icons": {"16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png"},
+    "action": {"default_popup": "./popup/popup.html", "default_title": "YouTube hider"},
+    "browser_specific_settings": { "gecko": {"id": "@youtubehider_bakarqureshi"} }
+}
