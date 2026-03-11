@@ -9,7 +9,7 @@
 ## Preview
 
 <p align="center">
-  <img src="screenshots/popup.png" alt="YouTube Hider Popup" width="300"/>
+  <img src="assets/extension.png" alt="YouTube Hider Popup" width="300"/>
 </p>
 
 ---
@@ -36,33 +36,15 @@ Install directly from the Firefox Add-ons store:
 
 Chrome requires a $5 developer fee to publish on the Web Store — so instead of locking you out, the extension is open source and can be loaded manually for free.
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/MuhammadAbuBakarQureshi/youtube-hider.git
-   ```
-2. Open the extensions page in your browser:
+1. Go to the [Releases page](../../releases) and download the latest `.zip`
+2. Extract the folder
+3. Open the extensions page in your browser:
    - Chrome: `chrome://extensions/`
    - Edge: `edge://extensions/`
    - Brave: `brave://extensions/`
-3. Enable **Developer Mode**
-4. Click **Load unpacked** and select the cloned folder
-
+4. Enable **Developer Mode**
+5. Click **Load unpacked** and select the extracted folder
 ---
-
-## Project Structure
-
-```
-youtube-hider/
-├── manifest.json
-├── popup.html
-├── popup.js
-├── content.js
-├── styles.css
-└── icons/
-```
-
-> Update this to match your actual project structure.
-
 ---
 
 ## Contributing
