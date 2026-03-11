@@ -28,7 +28,7 @@
 ## Firefox — Easy Install
 
 Install directly from the Firefox Add-ons store:
-👉 [YouTube Hider on Firefox Add-ons](https://addons.mozilla.org)
+👉 [YouTube Hider on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youtube-hider/)
 
 ---
 
@@ -44,7 +44,7 @@ Chrome requires a $5 developer fee to publish on the Web Store — so instead of
    - Brave: `brave://extensions/`
 4. Enable **Developer Mode**
 5. Click **Load unpacked** and select the extracted folder
----
+
 ---
 
 ## Contributing
