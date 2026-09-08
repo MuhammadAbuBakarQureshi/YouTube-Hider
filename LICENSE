@@ -1,0 +1,40 @@
+MIT License (with Attribution Requirement)
+
+Copyright (c) 2025 Muhammad Abu Bakar Qureshi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+1. The above copyright notice, this permission notice, and the Attribution
+   Requirement below shall be included in all copies or substantial portions
+   of the Software.
+
+2. ATTRIBUTION REQUIREMENT: Any public use, distribution, republishing, or
+   derivative work based on this Software — including but not limited to
+   source code repositories, browser extension store listings, websites, and
+   compiled/packaged builds — must clearly and visibly credit the original
+   author, Muhammad Abu Bakar Qureshi, and link back to the original
+   repository:
+
+       https://github.com/MuhammadAbuBakarQureshi/youtube-hider
+
+   This credit must be reasonably visible to end users or viewers of the
+   derivative work (for example: in the README, in an "About" or "Credits"
+   section of the extension/app, or in the store listing description) and
+   not merely buried in source code comments or a LICENSE file alone.
+
+3. Removing, obscuring, or failing to include this attribution when
+   distributing the Software or a derivative work constitutes a violation
+   of this license and revokes the permissions granted above for the party
+   responsible.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
