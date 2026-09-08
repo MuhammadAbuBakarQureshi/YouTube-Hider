@@ -72,8 +72,7 @@ See [Releases](../../releases) for the full version history.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
+This project is licensed under a modified MIT License with an attribution requirement — see [LICENSE](LICENSE).
 ---
 
 <p align="center">Built by <a href="https://github.com/MuhammadAbuBakarQureshi">@MuhammadAbuBakarQureshi</a></p>
