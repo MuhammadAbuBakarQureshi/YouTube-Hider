@@ -2,7 +2,7 @@
 
 > Take back control of your YouTube experience. Hide distracting elements and watch intentionally.
 
-![Version](https://img.shields.io/badge/version-1.1.0-red) ![License](https://img.shields.io/badge/license-MIT-blue) ![Firefox](https://img.shields.io/badge/Firefox-supported-orange)
+![Version](https://img.shields.io/badge/version-1.1.0-red) ![Firefox](https://img.shields.io/badge/Firefox-supported-orange)
 
 ---
 
